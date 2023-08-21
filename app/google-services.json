@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008415817359",
+    "project_id": "test-notificatins",
+    "storage_bucket": "test-notificatins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008415817359:android:d38dfbb0fe865bc4093afa",
+        "android_client_info": {
+          "package_name": "com.hager_gomaa.testnotificatins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008415817359-nccjqptovep7l92ub2f34npmpnt35ice.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDalDmx2YFetyIH4YfwcVorE3CqP5p3j4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008415817359-nccjqptovep7l92ub2f34npmpnt35ice.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
